@@ -24,6 +24,7 @@ class Vacancy:
     @staticmethod
     def __valid_salary(salary: dict[str]) -> None | int | float | Decimal | Fraction | Any:
         """Проверка указана ли зарплата"""
+        print(type(salary))
         if isinstance(salary, dict):
             if salary:
                 if salary.get("from") and salary.get("to"):
