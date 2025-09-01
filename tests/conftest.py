@@ -18,6 +18,32 @@ def vacancy1():
         description = "Требования: опыт работы от 3 лет...")
 
 @pytest.fixture
+def vacancy2():
+    return Vacancy(
+        vacancy_id = "93353072",
+        name = "Developer",
+        url = "<https://hh.ru/vacancy/456789>",
+        salary = {"from": 120000, "to": 140000},
+        description = "Требования: опыт работы от 3 лет...")
+
+@pytest.fixture
+def vacancy_dubl():
+    return [
+        Vacancy(
+        vacancy_id = "93353083",
+        name = "Python Devel",
+        url = "<https://hh.ru/vacancy/123456>",
+        salary = {"from": 100000, "to": 140000},
+        description = "Требования: опыт работы от 3 лет..."),
+        Vacancy(
+            vacancy_id="93353072",
+            name="Developer",
+            url="<https://hh.ru/vacancy/456789>",
+            salary={"from": 120000, "to": 140000},
+            description="Требования: опыт работы от 3 лет...")
+        ]
+
+@pytest.fixture
 def jsonsaver1():
     return JSONSaver(
         vacancies = [],

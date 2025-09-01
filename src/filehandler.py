@@ -32,7 +32,7 @@ class JSONSaver(FileHandler):
         self.criteria = criteria
         self.__full_path = os.path.abspath(path)
 
-    def add_vacancies(self, vacancies, vacancy1: Vacancy) -> None:
+    def add_vacancies(self, vacancies, vacancy1) -> None:
         '''Добавление вакансий в файл'''
         for vacancy in self.__vacancies:
             n = 0
