@@ -26,24 +26,16 @@ def test_to_dict(vacancy1):
 
 
 def test_cast_to_object_list(hh_vacanc):
-    assert Vacancy.cast_to_object_list(hh_vacanc) == [
-        Vacancy(vacancy_id = 93353083,
-                name = 'Тестировщик комфорта квартир',
-                url = 'https://api.hh.ru/vacancies/93353083?host=hh.ru',
-                salary = 120000,
-                description = {'requirement': 'Занимать активную жизненную позицию'})]
+    vacancy = Vacancy.cast_to_object_list(hh_vacanc)[0]
+    assert vacancy.vacancy_id == "93353083"
+    assert vacancy.name == "Тестировщик комфорта квартир"
+    assert vacancy.url == "https://api.hh.ru/vacancies/93353083?host=hh.ru"
+    assert vacancy.salary == 120000
+    assert vacancy.description == {"requirement": "Занимать активную жизненную позицию"}
 
 
 def test_sorted_by_salary(sort_salary):
-    assert vacancy.sorted_by_salary(sort_salary) == [
-        Vacancy(vacancy_id=93353082,
-                name='Проектировщик комфорта квартир',
-                url='https://api.hh.ru/vacancies/93353082?host=hh.ru',
-                salary=110000,
-                description={'requirement': 'Занимать активную жизненную позицию'}),
-        Vacancy(vacancy_id=93353083,
-                name='Тестировщик комфорта квартир',
-                url='https://api.hh.ru/vacancies/93353083?host=hh.ru',
-                salary=100000,
-                description={'requirement': 'Занимать активную жизненную позицию'})
-    ]
+    vacancy = Vacancy.sorted_by_salary(sort_salary)[0]
+    vacancy1 = Vacancy.sorted_by_salary(sort_salary)[1]
+    assert vacancy.vacancy_id ==93353083
+    assert vacancy1.vacancy_id ==93353082

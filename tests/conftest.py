@@ -30,7 +30,7 @@ def vacancy2():
 def vacancy_dubl():
     return [
         Vacancy(
-        vacancy_id = "93353083",
+        vacancy_id = "93353081",
         name = "Python Devel",
         url = "<https://hh.ru/vacancy/123456>",
         salary = {"from": 100000, "to": 140000},
