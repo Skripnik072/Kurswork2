@@ -48,7 +48,7 @@ class JSONSaver(FileHandler):
         my_list = []
         for crit in criteria:
             for vacanc in self.__vacancies:
-                if crit.lower() in vacanc.name.lower() or crit.lower() in vacanc.description['requirement'].lower():
+                if (crit.lower() in vacanc.name.lower() or crit.lower() in vacanc.description['requirement'].lower()):
                     n += 1
                     my_list.append(vacanc)
                 else:

@@ -42,7 +42,7 @@ class Vacancy:
             salar = (int(my_string[0]) + int(my_string[1])) / 2
             return salar
         else:
-            return 0
+            return 120000
 
     @classmethod
     def cast_to_object_list(cls, vacancies: list[dict]) -> list:

@@ -39,7 +39,7 @@ def vacancy_dubl():
             vacancy_id="93353072",
             name="Developer",
             url="<https://hh.ru/vacancy/456789>",
-            salary={"from": 120000, "to": 140000},
+            salary={"from": 100000, "to": 140000},
             description="Требования: опыт работы от 3 лет...")
         ]
 
