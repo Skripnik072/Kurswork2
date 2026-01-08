@@ -90,11 +90,11 @@ def user_interaction():
 
     hh_vacancies = hh_api.load_vacancies(key_word)
     vacancies_list = Vacancy.cast_to_object_list(hh_vacancies)
-    print(vacancies_list)
-
     json_saver = JSONSaver(vacancies_list, key_word)
-    add_list = json_saver.add_vacancies(vacancies_list, vacancy1)
-# print(add_list)
+
+    for vac in hh_vacancies:
+        json_saver.add_vacancies(Vacancy(vac["id"], vac["name"], vac["url"], vac["salary"], vac["snippet"]))
+
     filtered_vacancies = json_saver.call_vacancies(vacancies_list, filter_words)
 
     ranged_vacancies = []

@@ -10,15 +10,15 @@ class FileHandler(ABC):
     criteria: str
 
     @abstractmethod
-    def add_vacancies(self, vacancies, vacancy_id_new) -> None:
+    def add_vacancies(self, vacancy: Vacancy) -> None:
         pass
 
     @abstractmethod
-    def call_vacancies(self, vacansies, criteria) -> None:
+    def call_vacancies(self, vacancy: Vacancy, criteria) -> None:
         pass
 
     @abstractmethod
-    def del_vacancies(self, vacancies, criteria) -> None:
+    def del_vacancies(self, vacancy: Vacancy) -> None:
         pass
 
 
@@ -31,45 +31,49 @@ class JSONSaver(FileHandler):
         self.__vacancies = vacancies if vacancies else []
         self.criteria = criteria
         self.__full_path = os.path.abspath(path)
+        if not os.path.exists(self.__full_path):
+            with open(self.__full_path, "w", encoding="UTF-8") as file:
+                json.dump([], file, ensure_ascii=False, indent=4)
 
-    def add_vacancies(self, vacancies, vacancy1) -> None:
-        '''Добавление вакансий в файл'''
-        for vacancy in self.__vacancies:
-            n = 0
-            if vacancy1.vacancy_id == vacancy.vacancy_id:
-                n += 1
-            if n > 0:
-                self.__vacancies.append(vacancy1)
-        return self.__vacancies
-
-    def call_vacancies(self, vacancies, criteria) -> None:
-        '''Получение вакансий из файла по критериям'''
-        n = 0
-        my_list = []
-        for crit in criteria:
-            for vacanc in self.__vacancies:
-                if (crit.lower() in vacanc.name.lower() or crit.lower() in vacanc.description['requirement'].lower()):
-                    n += 1
-                    my_list.append(vacanc)
-                else:
-                    continue
-        if n == 0:
-            print("Критерии запроса не найдены")
-        return my_list
-
-    def del_vacancies(self, vacancies, criteria) -> None:
-        '''Удаление вакансии из файла'''
-        for vacan in self.__vacancies:
-            if self.criteria in vacan.vacancy_id:
-                self.__vacancies.remove(vacan)
-                break
-        return self.__vacancies
-
-    def save_to_json(self, new_dict: dict, path: str) -> None:
+    def __save_to_json(self, new_dict: dict, path: str) -> None:
         """Сохранение информации в json-файл"""
 
         with open(self.__full_path, 'w', encoding='UTF-8') as file:
-            json.dump(new_dict, file, ensure_ascii=False)
+            json.dump(new_dict, file, ensure_ascii=False, indent=4)
+
+    def add_vacancies(self, vacancy: Vacancy) -> None:
+        '''Добавление вакансий в файл'''
+        if self.__vacancies:
+            self.__vacancies = [
+                Vacancy(v["vacancy_id"], v["name"], v["url"], v["salary"], v["description"])
+                for v in self.call_vacancies()
+            ]
+        if vacancy not in self.__vacancies:
+            self.__vacancies.append(vacancy)
+        new_list = [vacancy.to_dict(vacancy) for vacancy in self.__vacancies]
+        self.__save_to_json(new_list)
+
+    def call_vacancies(self, vacancy: Vacancy, criteria: list[str] = None) -> list[dict]:
+        '''Получение вакансий из файла по критериям'''
+        with open(self.__full_path, "r", encoding="UTF-8") as file:
+            data = json.load(file)
+            if criteria:
+                return [vacancy for vacancy in data if all(word in vacancy["name"].lower() for word in criteria)]
+            else:
+                print("Критерии запроса не найдены")
+            return data
+
+    def del_vacancies(self, vacancy: Vacancy) -> None:
+        """Удаление вакансии из файла"""
+        if self.__vacancies:
+            self.__vacancies = [
+                Vacancy(v["vacancy_id"], v["name"], v["url"], v["salary"], v["description"])
+                for v in self.call_vacancies()
+            ]
+        if vacancy in self.__vacancies:
+            self.__vacancies.pop(vacancy)
+        new_list = [vacancy.to_dict(vacancy) for vacancy in self.__vacancies]
+        self.__save_to_json(new_list)
 
 
 vacancy1 = Vacancy("00000001", "Python Developer", "<https://hh.ru/vacancy/123456>",
