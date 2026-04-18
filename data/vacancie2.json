@@ -1,0 +1,18 @@
+[
+    {
+        "vacancy_id": "129522728",
+        "name": "Prompt engineer Intern - Junior",
+        "url": "https://api.hh.ru/vacancies/129522728?host=hh.ru",
+        "salary": "120000-140000",
+        "description": "Требования: опыт работы от 5 лет..."
+        }
+    },
+    {
+        "vacancy_id": "129481232",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129481232?host=hh.ru",
+        "salary": "130000-150000",
+        "description": "Требования: опыт работы от 4 лет..."
+        }
+    }
+]

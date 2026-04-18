@@ -1,7 +1,6 @@
 import pytest
 
 from src.vacancies import Vacancy
-from src.api_hh import HeadHunterAPI
 from src.filehandler import JSONSaver
 
 @pytest.fixture
@@ -14,7 +13,7 @@ def vacancy1():
         vacancy_id = "93353083",
         name = "Python Developer",
         url = "<https://hh.ru/vacancy/123456>",
-        salary = {"from": 100000, "to": 140000},
+        salary = '120000-140000',
         description = "Требования: опыт работы от 3 лет...")
 
 @pytest.fixture
@@ -45,10 +44,7 @@ def vacancy_dubl():
 
 @pytest.fixture
 def jsonsaver1():
-    return JSONSaver(
-        vacancies = [],
-        criteria = "Python Developer",
-        path='data/vacancie.json')
+    return JSONSaver(path='data/vacancie.json')
 
 @pytest.fixture
 def salary1():
