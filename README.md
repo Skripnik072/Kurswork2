@@ -8,7 +8,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone git@github.com:Skripnik072/HW141.git
+git clone git@github.com:Skripnik072/Kurswork2.git
 ```
 
 ## Использование:
