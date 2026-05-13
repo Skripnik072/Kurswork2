@@ -1,0 +1,1002 @@
+[
+    {
+        "vacancy_id": "129522728",
+        "name": "Prompt engineer Intern - Junior",
+        "url": "https://api.hh.ru/vacancies/129522728?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Solid understanding of mathematics fundamentals. Basic programming skills (<highlighttext>Python</highlighttext> or TypeScript is a strong advantage). English level B2 or...",
+            "responsibility": "Design, test, and optimize prompts for large language models (LLMs). Analyze AI outputs and systematically improve accuracy, structure, and reliability. "
+        }
+    },
+    {
+        "vacancy_id": "129464828",
+        "name": "Senior Frontend Developer (React.js)",
+        "url": "https://api.hh.ru/vacancies/129464828?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "API Interaction: Familiarity with APIs, particularly in <highlighttext>Python</highlighttext>. Version Control: Solid understanding of Git (including sub-modules) and Bitbucket. ",
+            "responsibility": "Collaborative Development: Work closely with a team of developers of varying skill levels. Innovative Contribution: Enjoy influencing product direction, proposing..."
+        }
+    },
+    {
+        "vacancy_id": "129507787",
+        "name": "Data Engineer / Data Analyst",
+        "url": "https://api.hh.ru/vacancies/129507787?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "...<highlighttext>Python</highlighttext>, понимание ETL/ELT и работы с большими данными. Резюме присылайте с указанием опыта по SQL, Azure, Databricks и <highlighttext>Python</highlighttext>.",
+            "responsibility": "Разработка data pipeline, оптимизация SQL-запросов, анализ данных, работа с Azure и Databricks."
+        }
+    },
+    {
+        "vacancy_id": "129289221",
+        "name": "Специалист по информационным технологиям",
+        "url": "https://api.hh.ru/vacancies/129289221?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт автоматизации процессов и написания скриптов (Bash, Ansible, Git). Базовые навыки программирования (<highlighttext>Python</highlighttext>, C# и другие языки). Опыт конфигурирования и...",
+            "responsibility": "Внедрение современных IT-технологий и решений для развития инфраструктуры компании. Автоматизация процессов с целью снижения нагрузки на IT-подразделение и..."
+        }
+    },
+    {
+        "vacancy_id": "129441695",
+        "name": "Стажер No-code / AI Developer (Vibecoding Enthusiast)",
+        "url": "https://api.hh.ru/vacancies/129441695?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Понимаешь логику: Знаешь основы <highlighttext>Python</highlighttext> или JavaScript на уровне «прочитать и поправить», понимаешь, что такое REST API. Мастер промптов: Умеешь...",
+            "responsibility": "Вайбкодинг в деле: Сборка фич и внутренних сервисов, используя AI-ассистентов как основную силу. Интеграции: Связывать воедино API, вебхуки и..."
+        }
+    },
+    {
+        "vacancy_id": "129425829",
+        "name": "Старший менеджер проектов в IT",
+        "url": "https://api.hh.ru/vacancies/129425829?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание SQL и понимание архитектуры баз данных, знание Power BI, знание <highlighttext>Python</highlighttext> и библиотек для обработки и анализа данных (например...",
+            "responsibility": "Применять практический подход (с помощью <highlighttext>Python</highlighttext>, KNIME, Power BI и т.д.) для решения бизнес-задач на местах в соответствии..."
+        }
+    },
+    {
+        "vacancy_id": "129530149",
+        "name": "Программист-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/129530149?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2-х лет. Инженерно-техническое образование. Знание SQL и ORM. Опыт работы с СУБД...",
+            "responsibility": "Разработка Backend на <highlighttext>Python</highlighttext>, интеграция с Frontend, разработка API. Работа с базами данных SQL, NoSQL. Docker, Git. Поддержка старого и..."
+        }
+    },
+    {
+        "vacancy_id": "129478556",
+        "name": "Заместитель начальника инспекции Департамента аудита образования, науки и инноваций",
+        "url": "https://api.hh.ru/vacancies/129478556?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "...РФ и т.п.) - как преимущество. Владение инструментами анализа данных (<highlighttext>Python</highlighttext>, SQL, BI-системы, электронные таблицы, запросы по API) - как...",
+            "responsibility": "Участие в организации и проведении контрольных и экспертно-аналитических мероприятий. Разработка дизайна мероприятия; участие в организации и выполнении прикладных исследований..."
+        }
+    },
+    {
+        "vacancy_id": "129526790",
+        "name": "Технический директор (CTO)",
+        "url": "https://api.hh.ru/vacancies/129526790?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Сильную продуктовую и инженерную экспертизу: над продуктом работает команда студии с большим опытом в создании и развитии именно браузерных и...",
+            "responsibility": "Стратегическое влияние на развитие платформы Nextbrowser: от архитектуры до выбора стеков и инструментов. Тесная работа с фаундером, быстрые решения, короткий..."
+        }
+    },
+    {
+        "vacancy_id": "129520906",
+        "name": "Frontend-разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/129520906?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Навыки написания тестов (Jest, React Testing Library) и отладки. Понимание принципов работы <highlighttext>Python</highlighttext>-бэкенда (FastAPI) для эффективной интеграции. ",
+            "responsibility": "Разрабатывать и поддерживать высоконагруженные пользовательские интерфейсы (сложные графики, большие таблицы, формы анализа). Оптимизировать производительность рендеринга и отзывчивость интерфейса при работе..."
+        }
+    },
+    {
+        "vacancy_id": "129530929",
+        "name": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/129530929?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Понимание основ алгоритмов и структур данных. Опыт работы с микроконтроллерами (базовый уровень). ",
+            "responsibility": "Разрабатывать и поддерживать ПО для работы парковочных автоматов на <highlighttext>Python</highlighttext>. Работать с железом (Raspberry Pi, сканеры, считыватели и принтеры). "
+        }
+    },
+    {
+        "vacancy_id": "129457518",
+        "name": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/129457518?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание тестирования (Jest, React Testing Library). Базовые навыки бэкенда (<highlighttext>Python</highlighttext>/FastAPI — для понимания архитектуры). Английский — уровень Pre-Intermediate+ (чтение документации). ",
+            "responsibility": "1+ год коммерческой разработки на React/Next.js. Участие в 2+ production-проектах с использованием современных frontend-технологий. "
+        }
+    },
+    {
+        "vacancy_id": "129504513",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129504513?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное владение <highlighttext>Python</highlighttext> 3.8+. Опыт коммерческой разработки с FastAPI. Хорошее понимание SQLAlchemy (ORM). Опыт работы с PostgreSQL. ",
+            "responsibility": "Разработка и поддержка backend-сервисов на <highlighttext>Python</highlighttext>. Проектирование и реализация REST API на FastAPI. Работа с базами данных PostgreSQL через..."
+        }
+    },
+    {
+        "vacancy_id": "129535492",
+        "name": "Аналитик Данных (коммерческий аналитик)",
+        "url": "https://api.hh.ru/vacancies/129535492?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Отличное знание SQL — умение писать сложные запросы, оптимизировать их. Уверенное владение <highlighttext>Python</highlighttext> для анализа данных (pandas, matplotlib/seaborn, jupyter, scikit...",
+            "responsibility": "Анализировать коммерческие показатели (выручка, маржинальность, конверсия, LTV, retention и пр.). Выявлять точки роста: строить гипотезы, анализировать результат. Разрабатывать и поддерживать..."
+        }
+    },
+    {
+        "vacancy_id": "129298572",
+        "name": "Junior Python Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/129298572?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с <highlighttext>Python</highlighttext>: от 1 года. ️Знание и опыт работы с FastAPI, Pydantic, PostgreSQL или других СУБД, docker. ️",
+            "responsibility": "Обязанности: ‍Написание новых backend-сервисов на <highlighttext>Python</highlighttext>. ‍Поддержка и развитие существующих сервисов в распределенной системе обработки видео. ‍Деплой сервисов в..."
+        }
+    },
+    {
+        "vacancy_id": "129354364",
+        "name": "Разработчик Python",
+        "url": "https://api.hh.ru/vacancies/129354364?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Хорошее знание <highlighttext>Python</highlighttext> и фреймворков: Flask, Django, FastAPI. Понимание принципов микросервисной архитектуры. Знание Docker, Kubernetes для разработки и развёртывания микросервисов. ",
+            "responsibility": "Опыт разработки и внедрения микросервисов с использованием Flask, Django и FastAPI. Разработка и интеграция клиентов для взаимодействия со сторонними API..."
+        }
+    },
+    {
+        "vacancy_id": "129516869",
+        "name": "QA Engineer / Тестировщик (автоматизированное и ручное тестирование)",
+        "url": "https://api.hh.ru/vacancies/129516869?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт автоматизированного тестирования на <highlighttext>Python</highlighttext> от 3 лет (API + UI). Умение работать с GitLab CI/CD. Опыт проведения и...",
+            "responsibility": "Разрабатывать и поддерживать автотесты для API и UI. Участвовать в разработке стратегии автоматизации. Осваивать новые подходы к автоматизации и делиться..."
+        }
+    },
+    {
+        "vacancy_id": "129471378",
+        "name": "Аналитик SQL",
+        "url": "https://api.hh.ru/vacancies/129471378?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Умение делать выводы и объяснять результаты анализа. Знание <highlighttext>Python</highlighttext> (pandas, numpy, matplotlib, sqlalchemy, gspread). Опыт работы с DWH. ",
+            "responsibility": "Анализ данных из внутренних баз и систем. Написание и оптимизация SQL-запросов. Формирование аналитических отчётов и сводных таблиц. "
+        }
+    },
+    {
+        "vacancy_id": "129525278",
+        "name": "Backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/129525278?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "<highlighttext>Python</highlighttext> 3.8+ (от 3х лет): глубокое понимание асинхронности (asyncio/gevent) и конкурентности (threads/processes), GIL и I...",
+            "responsibility": "Поддержка и развитие существующего Django-монолита (<highlighttext>python</highlighttext> 3.8) и интеграция с новым контуром (<highlighttext>python</highlighttext> 3.12-3.14) на..."
+        }
+    },
+    {
+        "vacancy_id": "129437213",
+        "name": "Младший системный администратор",
+        "url": "https://api.hh.ru/vacancies/129437213?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Требования: богатый жизненный опыт сисадминской работы с сетью минимум из 20 компьютеров сроком от 1 года.",
+            "responsibility": "Увлекательная работа по обслуживанию ИТ-инфраструктуры с элементами искусственного интеллекта, включая ежедневный мониторинг, техподдержку сотрудников, установку ПО, обслуживание оборудования, устранение..."
+        }
+    },
+    {
+        "vacancy_id": "129369084",
+        "name": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/129369084?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "коммерческий опыт работы в роли Frontend-разработчика от 4 лет. - опыт работы с React/Redux/TypeScript. - опыт работы с RTK. - ",
+            "responsibility": "разработка сложного виджета загрузки файлов с отслеживанием процесса загрузки, комментариями, дополнительными полями с пользовательским вводом и отображением уже загруженных файлов..."
+        }
+    },
+    {
+        "vacancy_id": "129037962",
+        "name": "Главный специалист",
+        "url": "https://api.hh.ru/vacancies/129037962?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Профильное образование (картография/геоинформатика/география/землеустройство и т.д.). Релевантный опыт работы от 2 лет. Уверенное владение ArcGIS, QGIS (работа...",
+            "responsibility": "Работа с большими массивами данных в ГИС, в том числе в сопровождении, наполнении и актуализации баз пространственных данных. "
+        }
+    },
+    {
+        "vacancy_id": "129497932",
+        "name": "ML-инженер / Data Scientist",
+        "url": "https://api.hh.ru/vacancies/129497932?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание математической статистики, теории вероятностей, основ математического анализа и векторной алгебры. Знание <highlighttext>Python</highlighttext>. Знание SQL. Знание основных моделей машинного обучения...",
+            "responsibility": "Извлечение сырых данных, написание запросов к разнородным СУБД. Обработка данных – очистка, обогащение, проверка качества. Построение моделей машинного обучения (прогноз, классификация..."
+        }
+    },
+    {
+        "vacancy_id": "129521049",
+        "name": "Python-разработчик (FastAPI)",
+        "url": "https://api.hh.ru/vacancies/129521049?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное знание и коммерческий опыт работы с FastAPI. Опыт проектирования и оптимизации REST API. Глубокий практический опыт работы с базами...",
+            "responsibility": "Проектирование и разработка высоконагруженных сервисов и API на FastAPI для обработки данных измерений и расчётов. Разработка и оптимизация сложной бизнес..."
+        }
+    },
+    {
+        "vacancy_id": "129526081",
+        "name": "Middle QA engineer",
+        "url": "https://api.hh.ru/vacancies/129526081?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт тестирования коммерческих проектов от 2 лет. Опыт разработки тест кейсов. Опыт тестирования API и WEB-приложений (PWA). ",
+            "responsibility": "Тестирование микросервисно-ориентированных приложений. Работы с Swagger, Kibana, Grafana, Clickhouse, Oracle, Nginx, Unit-тестирование. Написание простых скриптов (bash, shell, <highlighttext>python</highlighttext>)."
+        }
+    },
+    {
+        "vacancy_id": "129533441",
+        "name": "Adhoc-аналитик / Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/129533441?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Будет плюсом: ​​​​​​​Опыт самостоятельной сборки дашбордов «с нуля». Базовый <highlighttext>Python</highlighttext> (pandas). Опыт когортного анализа, воронок, простых A/B-тестов. ",
+            "responsibility": "Самостоятельной подготовкой регулярной и ad-hoc отчётности по продуктовым и маркетинговым метрикам. Работой с BI-системой: развитием и поддержкой дашбордов..."
+        }
+    },
+    {
+        "vacancy_id": "129531237",
+        "name": "Руководитель отдела информационных технологий",
+        "url": "https://api.hh.ru/vacancies/129531237?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенные знания Windows Server (AD, DNS, DHCP, ADFS и др.), Linux (RHEL, Ubuntu, Debian). Опыт построения отказоустойчивых кластеров и балансировки...",
+            "responsibility": "Внедрение современных принципов инфраструктуры: Zero Trust, Infrastructure as Code. Знание <highlighttext>Python</highlighttext>/Bash для автоматизации задач (например, написание скриптов для развертывания..."
+        }
+    },
+    {
+        "vacancy_id": "129481213",
+        "name": "Младший аналитик данных",
+        "url": "https://api.hh.ru/vacancies/129481213?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы от 1 года в аналитике. Знание основ математической статистики, умение делать выводы на основе данных. Высокая обучаемость и...",
+            "responsibility": "Подготовка еженедельной и ежемесячной отчетности. Мониторинг продуктовых метрик. Выполнение регулярных задач (анализ маркетинговых акций и входящего трафика). Ad-hoc запросы."
+        }
+    },
+    {
+        "vacancy_id": "129426267",
+        "name": "Data Scientist (Junior)",
+        "url": "https://api.hh.ru/vacancies/129426267?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Высшее образование (математическое, техническое). Возможность работать полную рабочую неделю (full time). Знание современных архитектур нейросетей. Понимание как устроены классические алгоритмы...",
+            "responsibility": "Собирать и готовить данные для использования в ML-моделях. Разработка и поддержка микросервисов на <highlighttext>Python</highlighttext>, основанных на моделях компьютерного зрения..."
+        }
+    },
+    {
+        "vacancy_id": "129483824",
+        "name": "Аналитик больших данных",
+        "url": "https://api.hh.ru/vacancies/129483824?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы ML-инженером / DS или аналогичной роли от 3 лет. Уверенное владение <highlighttext>Python</highlighttext> и основными ML-библиотеками (pandas, scikit...",
+            "responsibility": "Участие в полном цикле создания ML-решений: от проектирования и разработки моделей до их развертывания, мониторинга и итеративного улучшения в..."
+        }
+    },
+    {
+        "vacancy_id": "129439466",
+        "name": "QA Engineer",
+        "url": "https://api.hh.ru/vacancies/129439466?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Наличие собственных разработок в open source. Опыт разработки автотестов на JavaScript или <highlighttext>Python</highlighttext>. Знание Playwrite. Опыт построения с CI/CD...",
+            "responsibility": "Среда, позволяющая безопасно применять методы машинного анализа на потоке метрик по предподготовленным и откомпилированным моделям с автоматическим подстраиванием моделей под..."
+        }
+    },
+    {
+        "vacancy_id": "129510436",
+        "name": "Marketing Data Analyst",
+        "url": "https://api.hh.ru/vacancies/129510436?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Профессионала с уверенными навыками работы в MS Excel и знанием SQL. Специалиста с базовыми знаниями <highlighttext>Python</highlighttext> для автоматизации аналитических задач. ",
+            "responsibility": "Проводить анализ эффективности маркетинговых кампаний по различным сегментам и каналам привлечения клиентов. Исследовать веб-активности, пользовательские метрики и поведенческие показатели. "
+        }
+    },
+    {
+        "vacancy_id": "129450632",
+        "name": "Специалист в IT отдел",
+        "url": "https://api.hh.ru/vacancies/129450632?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Базовые знания программирования (любой язык: <highlighttext>Python</highlighttext> / Java / C# / JavaScript и др.). Понимание основ алгоритмов и структур данных. Желание развиваться в...",
+            "responsibility": "Участие в разработке и поддержке программных продуктов компании. Написание и доработка кода под руководством наставника. Исправление ошибок и участие в..."
+        }
+    },
+    {
+        "vacancy_id": "129510698",
+        "name": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/129510698?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное владение <highlighttext>Python</highlighttext>. Общее понимание SQL и принципов работы СУБД. Понимание принципов работы REST API. Опыт работы с Git. ",
+            "responsibility": "Разрабатывать и поддерживать <highlighttext>Python</highlighttext>-код. Участвовать в подготовке данных для рекомендательных моделей. Работать с логами, метриками, результатами экспериментов. "
+        }
+    },
+    {
+        "vacancy_id": "129533471",
+        "name": "PHP-разработчик",
+        "url": "https://api.hh.ru/vacancies/129533471?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Высшее техническое образование. Отличное знание PHP 8.1 . Опыт работы от 3-х лет. Понимание алгоритмов и структур данных. ",
+            "responsibility": "Интересно писать отказоустойчивые и масштабируемые системы. Языки: PHP 8.1 (основной), Go, <highlighttext>Python</highlighttext> (дополнительно). Фреймворки: Laravel. Базы данных: MongoDB, ClickHouse..."
+        }
+    },
+    {
+        "vacancy_id": "129436431",
+        "name": "Python System Developer",
+        "url": "https://api.hh.ru/vacancies/129436431?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> — от 1,5 лет. Уверенное владение современным <highlighttext>Python</highlighttext> (3.12+), понимание устройства рантайма и...",
+            "responsibility": "Разрабатывать и поддерживать системы мониторинга и аналитики инцидентов: сбор метрик, поиск аномалий, автоматическое формирование отчётов, разбор цепочек событий. – "
+        }
+    },
+    {
+        "vacancy_id": "129474124",
+        "name": "Тестировщик ПО",
+        "url": "https://api.hh.ru/vacancies/129474124?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное знание Linux, опыт работы в командной строке. Опыт программирования и знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворками для автоматизации тестирования...",
+            "responsibility": "Описывать ошибки в bug tracking-системах (используем Gitlab). Разрабатывать автотесты (используем <highlighttext>Python</highlighttext>, Pytest/Robot Framework, seleniumLibrary). Поддерживать инфраструктуру для тестирования..."
+        }
+    },
+    {
+        "vacancy_id": "129350628",
+        "name": "Junior Backend разработчик",
+        "url": "https://api.hh.ru/vacancies/129350628?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Базовые знания <highlighttext>Python</highlighttext> (или другого нашего backend-языка, например, Java/Go/PHP — укажите актуальный) и понимание основ ООП. ",
+            "responsibility": "Комплексная разработка бэкенд-логики: от создания отдельных API-эндпоинтов и сервисов до интеграции с базами данных, внешними API и микросервисной..."
+        }
+    },
+    {
+        "vacancy_id": "129371511",
+        "name": "QA инженер Software/Hardware",
+        "url": "https://api.hh.ru/vacancies/129371511?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Умеете работать с системой контроля версий GIT, понимание CI-пайплайна. Знаете <highlighttext>Python</highlighttext> для создания автотестов, владение Linux, Terminal. ",
+            "responsibility": "Валидация программных сборок (BIOS, BMC и т.д.) для серверного оборудования, клиентской техники (ноутбуки, ПК и т.п). "
+        }
+    },
+    {
+        "vacancy_id": "129305856",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129305856?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "<highlighttext>Python</highlighttext>3.7+ следование PEP8. Опыт работы с фреймворками: Django 2.1-3+, DRF, FastAPI, Flask, а...",
+            "responsibility": "Разрабатывать новые компоненты платформ и реализовывать бизнес-логику согласно требованиям стейкхолдеров. Рефакторинг имеющихся компонентов. Взаимодействовать с командой тестирования - покрывать ключевой..."
+        }
+    },
+    {
+        "vacancy_id": "129437927",
+        "name": "Product Analyst (экономика новых проектов)",
+        "url": "https://api.hh.ru/vacancies/129437927?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт построения экономических моделей и анализа данных. Понимание специфики нашего бизнеса. Excel — твой рабочий инструмент, <highlighttext>Python</highlighttext> для анализа — будет плюсом.",
+            "responsibility": "Работать плечом к плечу с продуктом, маркетингом и другими командами, помогая им принимать решения."
+        }
+    },
+    {
+        "vacancy_id": "129472794",
+        "name": "Middle Data Analyst",
+        "url": "https://api.hh.ru/vacancies/129472794?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Навыки коммуникации и взаимодействия с бизнес-подразделениями. Умение документировать расчёты, метрики и аналитические процессы. Базовое понимание автоматизации отчётности (SQL, <highlighttext>Python</highlighttext>...",
+            "responsibility": "Сбор, обработка и анализ данных из различных источников. Подготовка регулярных и ad-hoc отчётов и дашбордов. Анализ бизнес-показателей и..."
+        }
+    },
+    {
+        "vacancy_id": "129202851",
+        "name": "Стажер-разработчик",
+        "url": "https://api.hh.ru/vacancies/129202851?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, <highlighttext>Python</highlighttext>, C#, Java, C, C++ и др). Писать код, понимать основные...",
+            "responsibility": "Разработка, развитие и поддержка Аналитической системы."
+        }
+    },
+    {
+        "vacancy_id": "129330460",
+        "name": "Разработчик (nocode) chatGPT роботов для Whatsapp",
+        "url": "https://api.hh.ru/vacancies/129330460?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное владение Google Sheets, Nextbot.kz. Понимание принципов работы в AmoCRM, Bitrix24. Знание Make, основ <highlighttext>Python</highlighttext> будет преимуществом.",
+            "responsibility": "Создание AI ассистентов в Whatsapp и Instagram. Написание сценариев общения с клиентами партнера. Техническая поддержка партнеров. Тестирование ботов и их..."
+        }
+    },
+    {
+        "vacancy_id": "129264623",
+        "name": "ИТ-специалист (стажер)",
+        "url": "https://api.hh.ru/vacancies/129264623?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Логическое мышление (3 задания на логику - до 15 минут). - Основы SQL (тест по основам SQL - до 15 минут). - ",
+            "responsibility": "Аналитика: системная аналитика, бизнес-аналитика, фуллстэк-аналитика, аналитика Big Data. Разработка: на C++, Java, <highlighttext>Python</highlighttext>, C#, JavaScript, Базы данных. "
+        }
+    },
+    {
+        "vacancy_id": "128880111",
+        "name": "Backend/Data Engineer (Python/FastAPI) — интеграции и обогащение данных",
+        "url": "https://api.hh.ru/vacancies/128880111?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенный <highlighttext>Python</highlighttext> 3.x и опыт разработки backend-сервисов (желательно FastAPI/Django и т.п.). Хороший SQL и опыт с...",
+            "responsibility": "Разработать backend-сервис на <highlighttext>Python</highlighttext>/FastAPI (можем рассмотреть создание сервиса так же на Django): API-контракты, валидация, версии, идемпотентность. "
+        }
+    },
+    {
+        "vacancy_id": "129503430",
+        "name": "Junior Python Developer",
+        "url": "https://api.hh.ru/vacancies/129503430?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Понимание принципов работы REST API и умение их реализовывать. Навыки работы с...",
+            "responsibility": "Разработка и поддержка внутренних <highlighttext>Python</highlighttext>-сервисов для автоматизации бизнес-процессов. Интеграция с REST API внешних и внутренних систем. "
+        }
+    },
+    {
+        "vacancy_id": "129523732",
+        "name": "Manual QA Engineer",
+        "url": "https://api.hh.ru/vacancies/129523732?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с баг-трекинговой системой (у нас - YouTrack). Имеете опыт автоматизации тестирования на <highlighttext>Python</highlighttext> или Java. Имеете опыт работы...",
+            "responsibility": "Проведение ручного тестирования. Точечные задачи по автоматизации (<highlighttext>Python</highlighttext>) и нагрузке. Взаимодействие с оборудованием в процессе тестирования (приборы учета, модули связи..."
+        }
+    },
+    {
+        "vacancy_id": "129539843",
+        "name": "Стажер группы маркетинговой аналитики",
+        "url": "https://api.hh.ru/vacancies/129539843?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Внимательность к деталям и аккуратность при работе с данными. Умение разбираться в новых инструментах и быстро обучаться. Владение <highlighttext>Python</highlighttext> и...",
+            "responsibility": "Участвовать в аналитической поддержке бизнеса. Собирать, проверять и обрабатывать данные из различных источников. Подготавливать маркетинговую отчётность и датасеты для аналитического..."
+        }
+    },
+    {
+        "vacancy_id": "129306123",
+        "name": "Интерн SOC в Департамент Киберзащиты",
+        "url": "https://api.hh.ru/vacancies/129306123?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное владение Excel (формулы, сводные таблицы, графики), начальный уровень <highlighttext>Python</highlighttext> (обработка, визуализация данных). Знание принципов функционирования баз данных, операционных систем...",
+            "responsibility": "Работа с выгрузками данных из различных систем (CSV, Excel, логи). Очистка, структурирование и базовый анализ данных. Построение графиков, диаграмм, сводных..."
+        }
+    },
+    {
+        "vacancy_id": "129369473",
+        "name": "Инженер по обработке сигналов",
+        "url": "https://api.hh.ru/vacancies/129369473?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание английского технического языка. Навыки программирования на MATLAB, <highlighttext>Python</highlighttext>, C и других языках. Готовность к обучению и развитию в случае...",
+            "responsibility": "Цифровая обработка сигналов, спектральный анализ, извлечение признаков. Объединение данных от разных сенсоров, работа с шумами и ложными срабатываниями."
+        }
+    },
+    {
+        "vacancy_id": "129523651",
+        "name": "QA Engineer (офис г. Москва)",
+        "url": "https://api.hh.ru/vacancies/129523651?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Навык работы с Linux на уровне уверенного пользователя. Знание <highlighttext>Python</highlighttext> или другого языка на базовом уровне. Опыт работы в проектах...",
+            "responsibility": "Покрытие кейсами новой функциональности. Тестирование доработок и новых версий продукта. Фиксирование и сопровождение багов в такс-трекере. Формирование отчетности о..."
+        }
+    },
+    {
+        "vacancy_id": "128960677",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/128960677?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенное владение от <highlighttext>Python</highlighttext> 3.8+. Опыт работы с CУБД (MySQL\\Postgres\\Mongo). Опыт работы с Redis. ",
+            "responsibility": "Разработка асинхронной микросервисной архитектуры на FastAPI. Высокие требования к отказоустойчивости платформы. Тесное взаимодействие с командами тестирования и аналитики."
+        }
+    },
+    {
+        "vacancy_id": "129344131",
+        "name": "QA Engineer (Junior/Middle) / Тестировщик",
+        "url": "https://api.hh.ru/vacancies/129344131?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Базовые знания SQL. Базовые знания JavaScript/TypeScript или <highlighttext>Python</highlighttext>. Знакомство с инструментами автоматизации (Playwright, Cypress, Selenium). Опыт работы на проектах...",
+            "responsibility": "Ручное функциональное тестирование новых фич. Составление и ведение тест-кейсов. Написание баг-репортов. Регрессионное тестирование перед релизами. Участие в обсуждении..."
+        }
+    },
+    {
+        "vacancy_id": "129449303",
+        "name": "Data Analyst",
+        "url": "https://api.hh.ru/vacancies/129449303?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с неструктированными данными и обработки сырых данных.  Владение <highlighttext>Python</highlighttext>, SQL – как преимущество.  Владение английским языком на уровне Intermediate...",
+            "responsibility": "Мы в поиске Дата аналитика в команду компании-лидера в области аналитики, изучения потребителей FMCG рынка, маркетинговых исследований и медиа..."
+        }
+    },
+    {
+        "vacancy_id": "129485832",
+        "name": "Младший инженер по автоматизации процессов (Python)",
+        "url": "https://api.hh.ru/vacancies/129485832?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "<highlighttext>Python</highlighttext>: уверенное знание языка. HTTP: уверенное понимание сетевого протокола. Знаешь что такое API. SQL: навыки написания и отладки запросов для...",
+            "responsibility": "Техническая поддержка и багфиксинг: разбор инцидентов, исправление форматов данных в отчетах и ошибок в SQL-запросах для сервисов отчетности. "
+        }
+    },
+    {
+        "vacancy_id": "129515749",
+        "name": "Project Manager (Junior+, Middle)",
+        "url": "https://api.hh.ru/vacancies/129515749?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт от 2 лет опыта работы Project Manager / Coordinator / Producer в digital-компаниях. Опыт ведения кросс-функциональных команд (дизайн, фронт...",
+            "responsibility": "Это человек, который обеспечивает прозрачное, своевременное и качественное выполнение проектов - от получения запроса до передачи финального результата клиенту. Основные задачи. "
+        }
+    },
+    {
+        "vacancy_id": "129522544",
+        "name": "Стажер в команду DevOps",
+        "url": "https://api.hh.ru/vacancies/129522544?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Стек технологий, с которым работаем: CI: GitLab CI. Иметь профильное высшее образование или учиться на IT/ математической или специальности. ",
+            "responsibility": "Команда DevOps-инженеров является центральным звеном в жизненном цикле наших продуктов. Работая с различными смежными командами (РМ, Dev, QA, Support..."
+        }
+    },
+    {
+        "vacancy_id": "129532850",
+        "name": "Fullstack-разработчик",
+        "url": "https://api.hh.ru/vacancies/129532850?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Full Stack разработчик. API: REST. Дополнительно: Docker, базовое понимание CI/CD, опыт использования AI-инструментов для разработки (Cursor, Claude) для...",
+            "responsibility": "TOO Multivision — IT-компания, занимающаяся разработкой веб - и мобильных продуктов для бизнеса. Работаем с современным стеком, развиваем собственные проекты и..."
+        }
+    },
+    {
+        "vacancy_id": "129474820",
+        "name": "Младший консультант технической поддержки",
+        "url": "https://api.hh.ru/vacancies/129474820?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Понимание основного стека сетевых технологий, готовность разбираться во внутренних системах и новых технологиях. Опыт работы в Active Directory, понимание значения...",
+            "responsibility": "Обработка и решение инцидентов и обращений, поступивших в техническую поддержку. Выполнение процессов реагирования на аварии (Major Incidents), обеспечение минимального времени..."
+        }
+    },
+    {
+        "vacancy_id": "129504253",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129504253?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "От 1 года коммерческой разработки (не фриланс). Будет преимуществом: опыт работы в стартапах; опыт написания парсеров; опыт работы с ИИ. ",
+            "responsibility": "Разработка парсеров данных с различных источников (сайты, API). Пайплайны обработки, очистки и нормализации данных. Преобразование данных в целевые форматы. "
+        }
+    },
+    {
+        "vacancy_id": "129295553",
+        "name": "Тестировщик middle",
+        "url": "https://api.hh.ru/vacancies/129295553?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт ручного тестирования от 3-х лет. Опыт автоматизации с использованием <highlighttext>Python</highlighttext>, git. Понимание клиент-серверного взаимодействия. Опыт работы с...",
+            "responsibility": "Плотная работа с бизнес-аналитиками, сбор и анализ требований к продукту с точки зрения тестировния. Тестирование серверной и клиентской части..."
+        }
+    },
+    {
+        "vacancy_id": "129532050",
+        "name": "Разработчик AI-агентов/ИИ-инженер/Prompt-Engineer",
+        "url": "https://api.hh.ru/vacancies/129532050?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Практические навыки интеграции решений через API. Владение <highlighttext>Python</highlighttext> и/или JavaScript для создания скриптов и автоматизаций. Опыт работы с платформами...",
+            "responsibility": "Полный цикл разработки и внедрения AI-агентов: от анализа бизнес-процесса до поддержки и улучшения работающего решения. Разработка, настройка и..."
+        }
+    },
+    {
+        "vacancy_id": "129523366",
+        "name": "Инженер программист АСУТП",
+        "url": "https://api.hh.ru/vacancies/129523366?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Высшее техническое образование. Опыт работы не менее 1 года.",
+            "responsibility": "Написание программного обеспечения для ПЛК (PLC) и разработка HMI/SCADA интерфейсов. Программирование на <highlighttext>Python</highlighttext>, работа с промышленными платформами на базе..."
+        }
+    },
+    {
+        "vacancy_id": "129377777",
+        "name": "Младший разработчик",
+        "url": "https://api.hh.ru/vacancies/129377777?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Практика и уверенная теория <highlighttext>Python</highlighttext> 3.9+ (маст хэв). Принципы ООП (маст хэв). Умение ориентироваться в больших проектах и...",
+            "responsibility": "Проектирование программного кода, согласно написанному ТЗ. Коддинг. Отладка написанного кода. Написание технической документации (readme). Созвоны с командой для консультации. "
+        }
+    },
+    {
+        "vacancy_id": "129486630",
+        "name": "QA Engineer (Manual)",
+        "url": "https://api.hh.ru/vacancies/129486630?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с инструментами CI/CD (например, Jenkins, GitLab CI/CD). Опыт в автоматизации тестирования (<highlighttext>Python</highlighttext>, pytest, Selenium, Allure). ",
+            "responsibility": "Проводить тестирование разработанного функционала на соответствие функциональным и нефункциональным требованиям. Выполнять smoke и регрессионное тестирование перед релизами. Осуществлять контроль над..."
+        }
+    },
+    {
+        "vacancy_id": "129339740",
+        "name": "Тестировщик / QA + 2nd line support",
+        "url": "https://api.hh.ru/vacancies/129339740?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с Postman/Insomnia, Swagger. Опыт работы с Git. Понимание основ Javascript. Опыт автоматизации на <highlighttext>Python</highlighttext>. Наличие профильных сертификатов.",
+            "responsibility": "Вести очередь обращений под руководством наставника. При необходимости уточнять информацию по обращениям, оперативно реагировать на инциденты в соответствии с регламентом. "
+        }
+    },
+    {
+        "vacancy_id": "129540473",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129540473?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 3-х лет. Отличные знания <highlighttext>Python</highlighttext>, Django, DRF, WebSocket. Умение работать с Linux, Docker...",
+            "responsibility": "...приложений на <highlighttext>Python</highlighttext> (Django+DRF. FastAPI, PostgresSQL, WebSockets). Проектирование и реализация утилит и системных сервисов для Linux на <highlighttext>Python</highlighttext>. "
+        }
+    },
+    {
+        "vacancy_id": "129517919",
+        "name": "Python разработчик",
+        "url": "https://api.hh.ru/vacancies/129517919?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Коммерческий опыт работы в роли <highlighttext>Python</highlighttext> разработчика от 2 лет. Навыки работы с фреймворками по направлению <highlighttext>Python</highlighttext>: asyncio/Flask/fastapi...",
+            "responsibility": "Разрабатывать и описывать API Kafka. Разрабатывать микросервисы для построения продукта. Поддерживать и дорабатывать текущие микросервисы. Искать и исправлять ошибки в..."
+        }
+    },
+    {
+        "vacancy_id": "129437553",
+        "name": "Руководитель направления QA",
+        "url": "https://api.hh.ru/vacancies/129437553?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт в написании автоматизированных UI-тестов на <highlighttext>Python</highlighttext> (Pytest + Selenium). Знание других стеков (например, JS/TS) будет плюсом. ",
+            "responsibility": "Заведение и ведение багов в баг-трекинговой системе. Написание и поддержка автоматизированных UI-тестов на <highlighttext>Python</highlighttext> с использованием Pytest и..."
+        }
+    },
+    {
+        "vacancy_id": "129471513",
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/129471513?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание <highlighttext>Python</highlighttext> (pandas, matplotlib, scipy, sklearn, kafka-<highlighttext>python</highlighttext>, requests, selenium). Знание SQL (DML, временные таблицы; процедуры, SQL agent - будет плюсом...",
+            "responsibility": "Развиваться в новом бизнес-домене. Брать на себя больше ответственности, чтобы вырастить свои компетенции (в т.ч. в смежных технических..."
+        }
+    },
+    {
+        "vacancy_id": "128663395",
+        "name": "Программист",
+        "url": "https://api.hh.ru/vacancies/128663395?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание одного из языков/стеков: PHP, <highlighttext>Python</highlighttext>, JavaScript (React) или инструментов автоматизации (Selenium, Playwright и др.). Понимание web-технологий: HTTP...",
+            "responsibility": "Участвовать в разработке и поддержке продуктовой системы. Писать, рефакторить и тестировать код. Интегрировать внутренние и внешние сервисы. Обеспечивать стабильность, безопасность..."
+        }
+    },
+    {
+        "vacancy_id": "129286290",
+        "name": "Junior Data Scientist",
+        "url": "https://api.hh.ru/vacancies/129286290?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Высшее образование (техническое, математическое, экономическое). Владение <highlighttext>Python</highlighttext> (библиотеки pandas, numpy, sklearn, xgboost, prophet, plotly, matplotlib, seaborn). Навыки проведения разведочного анализа...",
+            "responsibility": "Построение эконометрических и ML-моделей для оценки эффективности медиа поддержки в терминах бизнес и коммуникационных KPI под руководством Senior Data..."
+        }
+    },
+    {
+        "vacancy_id": "129537601",
+        "name": "Junior Frontend developer",
+        "url": "https://api.hh.ru/vacancies/129537601?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы на <highlighttext>python</highlighttext> от 1 года. Уверенный Git, базовый опыт с Docker. Базовые знания HTTP, WebSockets, клиент–серверной архитектуры. ",
+            "responsibility": "Сопровождать и развивать backend проекта. Сопровождать и поддерживать остальную инфраструктуру проекта. Работать в команде с QA и frontend-разработчиками. "
+        }
+    },
+    {
+        "vacancy_id": "129434246",
+        "name": "Business Intelligence & Analytics Team Lead / Руководитель отдела аналитики",
+        "url": "https://api.hh.ru/vacancies/129434246?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт моделирования данных, процессов ETL или работы с дата-инженерами. (Желательно) Базовые знания <highlighttext>Python</highlighttext> для анализа данных. Уровень владения английским...",
+            "responsibility": "Руководство командой. Руководство, наставничество и развитие команды из 2+ аналитиков в области продуктов, бизнеса и веб/мобильных технологий. "
+        }
+    },
+    {
+        "vacancy_id": "129439674",
+        "name": "Backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/129439674?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Базовые знания линейной алгебры и численного дифференцирования. Уверенное владение <highlighttext>Python</highlighttext>. Опыт работы с Flask/FastAPI. Опыт разработки многопоточных приложений. ",
+            "responsibility": "Разработка серверной части наземной станции управления. Разработка алгоритмов управления БПЛА. Оптимизация и доработка существующего кода."
+        }
+    },
+    {
+        "vacancy_id": "129520938",
+        "name": "Data Scientist//Data Analyst",
+        "url": "https://api.hh.ru/vacancies/129520938?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание математической статистики, теории вероятности и ключевых методов машинного обучения. Уверенное владение основными библиотеками <highlighttext>python</highlighttext>, используемыми в machine learning (NumPy...",
+            "responsibility": "Анализ, предобработка и исследование данных для создания и улучшения ML-моделей. Аналитический мониторинг и поддержка качества разработанных ML-моделей. "
+        }
+    },
+    {
+        "vacancy_id": "129509052",
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/129509052?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы с PostgreSQL. Уверенное владение <highlighttext>Python</highlighttext> для задач ETL и автоматизации. Опыт работы с парсингом данных из json/csv. ",
+            "responsibility": "Разработка и поддержка ETL процессов. Разработка и сопровождение витрин данных для обеспечения потребностей аналитики. Обеспечение качества данных - разработка и мониторинг..."
+        }
+    },
+    {
+        "vacancy_id": "127869919",
+        "name": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/127869919?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Typescript, React, Redux. Будет плюсом: Wagmi, Viem, Next, <highlighttext>Python</highlighttext>, FastAPI, PostgreSQL, SQLAlchemy. Опыт web3 разработки.",
+            "responsibility": "Верстка по макетам от дизайнера. Создание UI-компонентов. Оптимизация производительности. Поддержка пользовательских интерфейсов. Рефакторинг кода. Прохождение и проведение код-ревью."
+        }
+    },
+    {
+        "vacancy_id": "129440894",
+        "name": "Python-программист (junior)",
+        "url": "https://api.hh.ru/vacancies/129440894?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Вы нам подходите если: Вы искренне увлечены исследованиями и применением AI-инструментов: Вы следите за новинками и активно экспериментируете. ",
+            "responsibility": "Команда. Исправление багов/узких мест (например, оптимизирование БД запросов). Впоследствии и по готовности - развитие в сторону рулевого личного проекта/сервиса..."
+        }
+    },
+    {
+        "vacancy_id": "129284357",
+        "name": "Junior Python разработчик",
+        "url": "https://api.hh.ru/vacancies/129284357?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Был уверенным пользователем <highlighttext>Python</highlighttext> 3. Имел опыт работы с веб-фреймворками: FastAPI или Django/Flask. Опыт работы с системами контроля...",
+            "responsibility": "Участвовать в разработке веб-приложений и сервисов на <highlighttext>Python</highlighttext>. Работать с REST API: проектировать, реализовывать и тестировать их. "
+        }
+    },
+    {
+        "vacancy_id": "129487657",
+        "name": "Backend-разработчик",
+        "url": "https://api.hh.ru/vacancies/129487657?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Приветствуется с использованием AI-инструментов (Cursor IDE, Claude Code ). Уверенный коммерческий опыт разработки на <highlighttext>Python</highlighttext> + Django REST Framework. ",
+            "responsibility": "SMART REMONT – это чистовая отделка жилых помещений под ключ в новостройках."
+        }
+    },
+    {
+        "vacancy_id": "129428775",
+        "name": "QA Automation Engineer",
+        "url": "https://api.hh.ru/vacancies/129428775?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт подготовки синтетических данных (по профилю данных, вручную, автогенерация). Средний уровень владения <highlighttext>Python</highlighttext> и SQL (подзапросы, объединения, UDF и др...",
+            "responsibility": "Подготовка синтетических данных в соответствии с заданным профилем Автоматизация тестов (<highlighttext>Python</highlighttext>, SQL). Документирование результатов тестирования, подготовка отчетов. Активное взаимодействие с..."
+        }
+    },
+    {
+        "vacancy_id": "129418360",
+        "name": "Аналитик данных контроля качества",
+        "url": "https://api.hh.ru/vacancies/129418360?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание статистических методов оценки и анализа данных. Уверенный SQL в любом синтаксисе. <highlighttext>Python</highlighttext> на уровне уверенного владения библиотеками для визуализации...",
+            "responsibility": "Развивать и автоматизировать отчётность контроля качества. Анализировать клиентский опыт и качество коммуникаций для формирования бизнес-инсайтов. Проводить исследования для выявления..."
+        }
+    },
+    {
+        "vacancy_id": "129478766",
+        "name": "Специалист по тестированию ПО (Нижний Новгород и Зеленоград)",
+        "url": "https://api.hh.ru/vacancies/129478766?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание одного из скриптовых языков программирования (приветствуется <highlighttext>Python</highlighttext>). Приветствуется знание языка запросов SQL, опыт работы с любой из современных реляционных...",
+            "responsibility": "Ручное тестирование ПО, проверка документации проектов. Автоматизация тестов, поддержка CI/CD цикла проектов."
+        }
+    },
+    {
+        "vacancy_id": "129301001",
+        "name": "Data scientist - стажер",
+        "url": "https://api.hh.ru/vacancies/129301001?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Имеешь опыт работы с <highlighttext>Python</highlighttext> (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch – будет плюсом). Имеешь опыт работы с SQL. ",
+            "responsibility": "Писать SQL-запросы для извлечения и агрегации данных. Заниматься сбором, очисткой и предобработкой данных, разведочным анализом данных (EDA), визуализацией. "
+        }
+    },
+    {
+        "vacancy_id": "129522611",
+        "name": "Программист python",
+        "url": "https://api.hh.ru/vacancies/129522611?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание <highlighttext>Python</highlighttext> и опыт написания скриптов. Понимание работы с API. Умение автоматизировать задачи. Ответственность и внимательность к деталям.",
+            "responsibility": "Сбор шаблонов. Написание простейших скриптов. Автоматизация рутинных процессов. Подключение API к текущим скриптам. Разработка мини API для интеграции с ZennoPoster..."
+        }
+    },
+    {
+        "vacancy_id": "129483677",
+        "name": "Аналитик",
+        "url": "https://api.hh.ru/vacancies/129483677?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы по направлению вакансии 1-3 года. <highlighttext>Python</highlighttext> (pandas, numpy, matplotlib / seaborn. Навыки деловой коммуникации и презентации результатов. ",
+            "responsibility": "Анализ данных (<highlighttext>Python</highlighttext> с использованием pandas, numpy, matplotlib / seaborn). Формирование аналитических отчетов, их визуализация для управленческих решений и участие в..."
+        }
+    },
+    {
+        "vacancy_id": "129291794",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129291794?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Знание Docker, Git. Опыт разработки Telegram-ботов на <highlighttext>Python</highlighttext>. Аналитический склад ума, желание учиться новому, ответственность, умение работать в команде. ",
+            "responsibility": "Разработка и поддержка автоматизации процессов на <highlighttext>Python</highlighttext> с создание веб-приложений для них. Разработка и поддержка телеграмм-ботов и сервисов..."
+        }
+    },
+    {
+        "vacancy_id": "129466764",
+        "name": "Аналитик SQL",
+        "url": "https://api.hh.ru/vacancies/129466764?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Умение делать выводы и объяснять результаты анализа. Знание <highlighttext>Python</highlighttext> (pandas, numpy, matplotlib, sqlalchemy, gspread). Опыт работы с DWH. ",
+            "responsibility": "Анализ данных из внутренних баз и систем. Написание и оптимизация SQL-запросов. Формирование аналитических отчётов и сводных таблиц. "
+        }
+    },
+    {
+        "vacancy_id": "129517960",
+        "name": "Backend developer - Middle",
+        "url": "https://api.hh.ru/vacancies/129517960?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт 3+ лет в коммерческой разработке (Middle). Глубокое понимание <highlighttext>Python</highlighttext> (асинхронность, GIL, управление памятью) и средние знания Go (каналы...",
+            "responsibility": "AI Ops: LangChain, векторные БД (Weaviate/Qdrant). Проектировать и развивать микросервисы для обработки запросов к LLM (OpenAI, Anthropic и тд). "
+        }
+    },
+    {
+        "vacancy_id": "129480031",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129480031?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт от 3 лет коммерческой разработки на <highlighttext>Python</highlighttext> (FastAPI). Обязательно: уверенное знание FastAPI или Django/Django REST Framework. ",
+            "responsibility": null
+        }
+    },
+    {
+        "vacancy_id": "129484480",
+        "name": "ИИ-инженер / AI-инженер / Инженер по искусственному интеллекту",
+        "url": "https://api.hh.ru/vacancies/129484480?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Навыки интеграции решений в корпоративную среду, опыт работы с API. Владение <highlighttext>Python</highlighttext> / JavaScript. Опыт работы с n8n, Make. ",
+            "responsibility": "Анализ бизнес-процессов и выявление приоритетных участков для внедрения AI-агентов. O Интервьюирование бизнес-пользователей и выявление точек роста эффективности..."
+        }
+    },
+    {
+        "vacancy_id": "129481559",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129481559?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Отличные навыки программирования на <highlighttext>Python</highlighttext> 3.4+. Знание SQL (Postgre SQL). Опыт работы с SQL Alchemy. Понимание принципов работы...",
+            "responsibility": "Проектировать бизнес логику и CRM для платных дорог и парковок. Разрабатывать системы отчетности и BI."
+        }
+    },
+    {
+        "vacancy_id": "129510378",
+        "name": "Лидер по информационной безопасности",
+        "url": "https://api.hh.ru/vacancies/129510378?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Автоматизация: Навыки скриптовых языков программирования (<highlighttext>Python</highlighttext>, PowerShell, Bash) для создания инструментов мониторинга и реагирования. Soft skills: - Лидерство: Умение вдохновлять команду...",
+            "responsibility": "Строить и управлять службой информационной безопасности, разрабатывая стратегии, которые защитят нашу инфраструктуру и данные. - Внедрять и настраивать инновационные решения для..."
+        }
+    },
+    {
+        "vacancy_id": "129522690",
+        "name": "Data-аналитик",
+        "url": "https://api.hh.ru/vacancies/129522690?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Уверенный опыт работы с Excel: умение строить сводные таблицы, использовать сложные формулы. Умение презентовать результаты работы коллегам. Знание sql, <highlighttext>python</highlighttext>...",
+            "responsibility": "Выгрузка и обработка больших массивов данных из CRM, ERP для обучения моделей. Проведение аналитики и тестирование гипотез по запросу руководства. "
+        }
+    },
+    {
+        "vacancy_id": "129504084",
+        "name": "Лидер стрима",
+        "url": "https://api.hh.ru/vacancies/129504084?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Технические знания стеков разработки (основной стек в Командах: JavaScript, <highlighttext>Python</highlighttext>, GoLang, PHP). Опыт взаимодействия с бизнес-заказчиками, владельцами продуктов, архитекторами...",
+            "responsibility": "Работа в Agile процессе (Стримы и Команды) с соблюдением релизного цикла. Лидерство нескольких Команд разработки в рамках одного продуктового Стрима. "
+        }
+    },
+    {
+        "vacancy_id": "129504607",
+        "name": "Маркетолог-аналитик",
+        "url": "https://api.hh.ru/vacancies/129504607?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт работы на позиции маркетингового аналитика от 1 года. Владение <highlighttext>Python</highlighttext> (Plotly, Pandas, Sklearn), SQL в контексте проведения аналитических исследований...",
+            "responsibility": "Сбор статистики на основе обратной связи клиентов на этапе первой консультации, подписание договора, получение ключей, закрытия гарантий обращений и обращений..."
+        }
+    },
+    {
+        "vacancy_id": "129431411",
+        "name": "QA специалист",
+        "url": "https://api.hh.ru/vacancies/129431411?host=hh.ru",
+        "salary": 120000,
+        "description": {
+            "requirement": "Опыт использования DevTools/GIT/Postman. Будет плюсом: - Знание <highlighttext>Python</highlighttext>/Requests. - Работали с Docker. - Работали с Unix-системами. - Высшее образование (диплом...",
+            "responsibility": "Функциональное, регрессионное, интеграционное тестирование. Тестирование frontend/backend/API. Разработка тест-кейсов и чек-листов. Оформление баг-репортов."
+        }
+    },
+    {
+        "vacancy_id": "129481232",
+        "name": "Python-разработчик",
+        "url": "https://api.hh.ru/vacancies/129481232?host=hh.ru",
+        "salary": 130000,
+        "description": {
+            "requirement": "высшее экономическое образование. - знание языка <highlighttext>Python</highlighttext>, опыт разработки веб-приложений на <highlighttext>Python</highlighttext>. - знание фреймворка Fast API, понимание принципов построения REST...",
+            "responsibility": "создание эффективного, масштабируемого кода на <highlighttext>Python</highlighttext>. - автоматизация задач, работа с базами данных. - работа с excel-файлами (pandas, openpyxl). - интеграция систем. - "
+        }
+    }
+]
